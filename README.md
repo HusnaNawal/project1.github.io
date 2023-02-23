@@ -3,7 +3,7 @@
 Mini Project: STUDENT ATTENDANCE MANAGEMENT SYSTEM
 
 Student Attendance Management System is a system that is used by the lecturer to key in the student attendance for every class , every day. This system is created 
-to make the lecturers’ wok easier and keep the student attendance up-to-date. This system also allows lecturer to insert and delete students’ details if there is any 
+to make the lecturers’ work easier and keep the student attendance up-to-date. This system also allows lecturer to insert and delete students’ details if there is any 
 wrong information. This system will exchange the manual system, which is complicated and harder like using manual record. 
 
 Student Attendance Management System is a secure system because only those who has authority can login to the system. That is means, only lecturer or admin that
